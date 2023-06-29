@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>dialog.png</file>
+        <file>dialog2.png</file>
+        <file>icon.png</file>
+        <file>quit.png</file>
+        <file>region.png</file>
+        <file>region_now.png</file>
+        <file>send.png</file>
+        <file>son.png</file>
+        <file>quit2.png</file>
+        <file>help.png</file>
+        <file>buy.png</file>
+        <file>help2.png</file>
+        <file>mark.png</file>
+        <file>mark2.png</file>
+        <file>mark3.png</file>
+        <file>region2.png</file>
+        <file>backgroud.png</file>
+        <file>send2.png</file>
+    </qresource>
+</RCC>
